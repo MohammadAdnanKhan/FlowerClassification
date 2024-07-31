@@ -40,7 +40,9 @@ Build a web application for interactive visualization and prediction.
 Feel free to contribute to this project by:
 
 > Suggesting new features or improvements.
+
 > Submitting bug reports.
+
 > Creating pull requests with code enhancements.
 
 ## License 📄
@@ -52,4 +54,4 @@ Thanks to the open-source community for providing valuable tools and resources.
 ### Let's dive into the world of flowers! 🌸
 
 ## Author
-> [Mohd Adnan Khan]
+> [Mohd Adnan Khan](https://www.linkedin.com/in/mohd-adnan--khan)
