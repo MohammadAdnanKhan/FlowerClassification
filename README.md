@@ -13,7 +13,7 @@ The dataset comprises simulated flower data, providing a robust foundation for a
 
 ## Getting Started 🚀
 
-### Clone the repository:
+### Clone the repository: 
 Use the following command to clone the repo 🔽<br>
 git clone https://github.com/your-username/flower-power.git
 
@@ -53,5 +53,5 @@ Thanks to the open-source community for providing valuable tools and resources.
 
 ### Let's dive into the world of flowers! 🌸
 
-## Author
+## Author ✍️
 > [Mohd Adnan Khan](https://www.linkedin.com/in/mohd-adnan--khan)
