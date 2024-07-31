@@ -1,4 +1,4 @@
-# Flower Classification 🌹
+# Flower Classification 🌹🌺🪴
 
 ## Project Overview 📊
 This Jupyter Notebook delves into a synthetic dataset encompassing roses, shoeblack plants, and hibiscus. The dataset mirrors real-world flower attributes such as species, size, fragrance, and height. Our primary goal is to unearth hidden patterns, trends, and correlations within this floral universe through:
