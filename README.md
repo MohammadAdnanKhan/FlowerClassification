@@ -14,7 +14,7 @@ The dataset comprises simulated flower data, providing a robust foundation for a
 ## Getting Started 🚀
 
 ### Clone the repository:
-Use the following command to clone the repo 🔽
+Use the following command to clone the repo 🔽<br>
 git clone https://github.com/your-username/flower-power.git
 
 **Set up environment**: Ensure you have Python and necessary libraries (Pandas, NumPy, Matplotlib, Scikit-learn) installed.
